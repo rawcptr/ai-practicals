@@ -11,3 +11,11 @@
  4.0 KiB ├─ uv.lock
 28.0 KiB ai-practicals
 ```
+
+## placeholder
+
+substitute link for content
+
+```shell
+https://raw.githubusercontent.com/rawcptr/ai-practicals/main/{practical-number}.py
+```
